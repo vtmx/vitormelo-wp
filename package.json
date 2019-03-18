@@ -1,0 +1,29 @@
+{
+  "name": "vitormelo",
+  "version": "1.0.0",
+  "description": "Site pessoal de Vitor Melo",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtmx/vitormelo.git"
+  },
+  "author": "Vitor Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtmx/vitormelo/issues"
+  },
+  "homepage": "https://github.com/vtmx/vitormelo#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
